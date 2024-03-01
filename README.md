@@ -1,6 +1,16 @@
 # poo2024
 
-Deus é sempre bom, mesmo quando o ônibus está lotado!
+## install
 
-Fiquei só com os melhores alunos do mundo,
-os que Deus me deu esse semestre pra eu cuidar.
+```bash
+# instalação em um novo codespace
+pip install tko
+npm install -g esbuild
+
+# para baixar o projeto
+tko down poo carro -l ts
+
+# para rodar os testes, entre na pasta e rode
+tko run cases.tio draft.ts
+
+```
