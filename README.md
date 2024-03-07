@@ -5,6 +5,7 @@
 ```bash
 # instalação em um novo codespace
 pip install tko
+
 npm install -g esbuild
 
 # para baixar o projeto
