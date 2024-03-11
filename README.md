@@ -6,6 +6,9 @@
 # instalação em um novo codespace
 pip install tko
 
+# defina o diretório padrão para baixar os problemas
+tko config --home .
+
 npm install -g esbuild
 
 # para baixar o projeto
