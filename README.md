@@ -10,6 +10,8 @@ npm install -g esbuild
 # para baixar o projeto
 tko down poo carro
 
+
+
 # para rodar os testes, entre na pasta e rode
 tko run cases.tio draft.ts
 
